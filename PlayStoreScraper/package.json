@@ -1,0 +1,18 @@
+{
+  "name": "playstorescraper",
+  "version": "1.0.0",
+  "description": "application to find app details for a list of package names ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "google-play-scraper": "^0.3.0",
+    "mongoose": "^4.4.6",
+    "request": "^2.69.0"
+  }
+}
